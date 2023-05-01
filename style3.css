@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    
+}
+
+p{
+    text-align: center;
+    color: red;
+}
+a {
+    background: 50px;
+    color: brown;
+
+}
+video{
+    height: 500px;
+    width: auto;
+    
+}
+img{
+    height: 500px;
+    margin-top: 30px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+h1{
+    color:white;
+    font-size: 45px;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+a{
+    color: rgb(0, 255, 76);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 13, 0);
+}
+section{
+    width: 60%;
+    margin: auto;
+
+}

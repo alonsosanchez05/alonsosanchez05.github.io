@@ -1,0 +1,51 @@
+
+div.header nav.a{
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+justify-content: space-between;
+
+}
+section{
+    margin-top: 15%;
+    width: 100%;
+}
+img{
+    height: 160px;
+    margin-inline: 5px;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+h1{
+    color:white;
+    font-size: 45px;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+a{
+    color: rgb(0, 255, 76);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 13, 0);
+}
+p{
+    color:white;
+    text-align: center;
+}
+section{
+    margin-top: 30px;
+    width: 1100px;
+    height: auto;
+}

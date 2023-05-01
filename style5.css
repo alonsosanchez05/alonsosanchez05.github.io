@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(192, 192, 7);
+}
+
+p{
+    text-align: center;
+    color: aqua;
+    
+}
+
+section{
+    width: 60%;
+    margin: auto;
+
+
+}
+
+video{
+    width: 800px;
+    margin: 0 auto;
+    display: block;
+}
+img{
+    width: 700px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 50px;
+   
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+h1{
+    color:white;
+    font-size: 45px;
+    
+}
+ul li{
+    display: inline-block;
+    padding: 0px 15px;
+}
+a{
+    color: rgb(0, 255, 76);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 13, 0);
+}
